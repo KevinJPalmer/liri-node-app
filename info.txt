@@ -1,0 +1,8 @@
+
+spotify
+Your application 'test' has been successfully created.
+test
+creating for class homework
+
+Client ID 1c3555fe7b0345e6b58ed07171f7c1e2
+Client Secret 01091a47cd1f4414a246a0c26aa8e404
